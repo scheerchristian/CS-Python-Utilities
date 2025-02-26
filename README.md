@@ -30,8 +30,9 @@ TODO: To be filled
 ## Repository Structure
 
 ```
-my_utils/
+CS-Python-Utilities/
 ├── __init__.py
+├── setup.py
 ├── signal_processing.py
 ├── plotting.py
 ├── math_helpers.py
